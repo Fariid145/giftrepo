@@ -1,0 +1,16 @@
+C:\Users\FAREED\desktop\gifts\gift17\bin\Debug\net5.0\Gift17.exe
+C:\Users\FAREED\desktop\gifts\gift17\bin\Debug\net5.0\Gift17.deps.json
+C:\Users\FAREED\desktop\gifts\gift17\bin\Debug\net5.0\Gift17.runtimeconfig.json
+C:\Users\FAREED\desktop\gifts\gift17\bin\Debug\net5.0\Gift17.runtimeconfig.dev.json
+C:\Users\FAREED\desktop\gifts\gift17\bin\Debug\net5.0\Gift17.dll
+C:\Users\FAREED\desktop\gifts\gift17\bin\Debug\net5.0\ref\Gift17.dll
+C:\Users\FAREED\desktop\gifts\gift17\bin\Debug\net5.0\Gift17.pdb
+C:\Users\FAREED\desktop\gifts\gift17\obj\Debug\net5.0\Gift17.csprojAssemblyReference.cache
+C:\Users\FAREED\desktop\gifts\gift17\obj\Debug\net5.0\Gift17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAREED\desktop\gifts\gift17\obj\Debug\net5.0\Gift17.AssemblyInfoInputs.cache
+C:\Users\FAREED\desktop\gifts\gift17\obj\Debug\net5.0\Gift17.AssemblyInfo.cs
+C:\Users\FAREED\desktop\gifts\gift17\obj\Debug\net5.0\Gift17.csproj.CoreCompileInputs.cache
+C:\Users\FAREED\desktop\gifts\gift17\obj\Debug\net5.0\Gift17.dll
+C:\Users\FAREED\desktop\gifts\gift17\obj\Debug\net5.0\ref\Gift17.dll
+C:\Users\FAREED\desktop\gifts\gift17\obj\Debug\net5.0\Gift17.pdb
+C:\Users\FAREED\desktop\gifts\gift17\obj\Debug\net5.0\Gift17.genruntimeconfig.cache

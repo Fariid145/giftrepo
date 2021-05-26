@@ -1,0 +1,16 @@
+C:\Users\FAREED\Desktop\GiftI4\bin\Debug\net5.0\GiftI4.exe
+C:\Users\FAREED\Desktop\GiftI4\bin\Debug\net5.0\GiftI4.deps.json
+C:\Users\FAREED\Desktop\GiftI4\bin\Debug\net5.0\GiftI4.runtimeconfig.json
+C:\Users\FAREED\Desktop\GiftI4\bin\Debug\net5.0\GiftI4.runtimeconfig.dev.json
+C:\Users\FAREED\Desktop\GiftI4\bin\Debug\net5.0\GiftI4.dll
+C:\Users\FAREED\Desktop\GiftI4\bin\Debug\net5.0\ref\GiftI4.dll
+C:\Users\FAREED\Desktop\GiftI4\bin\Debug\net5.0\GiftI4.pdb
+C:\Users\FAREED\Desktop\GiftI4\obj\Debug\net5.0\GiftI4.csprojAssemblyReference.cache
+C:\Users\FAREED\Desktop\GiftI4\obj\Debug\net5.0\GiftI4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAREED\Desktop\GiftI4\obj\Debug\net5.0\GiftI4.AssemblyInfoInputs.cache
+C:\Users\FAREED\Desktop\GiftI4\obj\Debug\net5.0\GiftI4.AssemblyInfo.cs
+C:\Users\FAREED\Desktop\GiftI4\obj\Debug\net5.0\GiftI4.csproj.CoreCompileInputs.cache
+C:\Users\FAREED\Desktop\GiftI4\obj\Debug\net5.0\GiftI4.dll
+C:\Users\FAREED\Desktop\GiftI4\obj\Debug\net5.0\ref\GiftI4.dll
+C:\Users\FAREED\Desktop\GiftI4\obj\Debug\net5.0\GiftI4.pdb
+C:\Users\FAREED\Desktop\GiftI4\obj\Debug\net5.0\GiftI4.genruntimeconfig.cache

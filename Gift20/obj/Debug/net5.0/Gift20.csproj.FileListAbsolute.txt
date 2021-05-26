@@ -1,0 +1,16 @@
+C:\Users\FAREED\Desktop\Gift20\obj\Debug\net5.0\Gift20.csprojAssemblyReference.cache
+C:\Users\FAREED\Desktop\Gift20\obj\Debug\net5.0\Gift20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAREED\Desktop\Gift20\obj\Debug\net5.0\Gift20.AssemblyInfoInputs.cache
+C:\Users\FAREED\Desktop\Gift20\obj\Debug\net5.0\Gift20.AssemblyInfo.cs
+C:\Users\FAREED\Desktop\Gift20\obj\Debug\net5.0\Gift20.csproj.CoreCompileInputs.cache
+C:\Users\FAREED\Desktop\Gift20\bin\Debug\net5.0\Gift20.exe
+C:\Users\FAREED\Desktop\Gift20\bin\Debug\net5.0\Gift20.deps.json
+C:\Users\FAREED\Desktop\Gift20\bin\Debug\net5.0\Gift20.runtimeconfig.json
+C:\Users\FAREED\Desktop\Gift20\bin\Debug\net5.0\Gift20.runtimeconfig.dev.json
+C:\Users\FAREED\Desktop\Gift20\bin\Debug\net5.0\Gift20.dll
+C:\Users\FAREED\Desktop\Gift20\bin\Debug\net5.0\ref\Gift20.dll
+C:\Users\FAREED\Desktop\Gift20\bin\Debug\net5.0\Gift20.pdb
+C:\Users\FAREED\Desktop\Gift20\obj\Debug\net5.0\Gift20.dll
+C:\Users\FAREED\Desktop\Gift20\obj\Debug\net5.0\ref\Gift20.dll
+C:\Users\FAREED\Desktop\Gift20\obj\Debug\net5.0\Gift20.pdb
+C:\Users\FAREED\Desktop\Gift20\obj\Debug\net5.0\Gift20.genruntimeconfig.cache

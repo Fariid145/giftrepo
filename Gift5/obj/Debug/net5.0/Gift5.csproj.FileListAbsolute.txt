@@ -1,0 +1,16 @@
+C:\Users\FAREED\desktop\gifts\gift5\obj\Debug\net5.0\Gift5.csprojAssemblyReference.cache
+C:\Users\FAREED\desktop\gifts\gift5\obj\Debug\net5.0\Gift5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAREED\desktop\gifts\gift5\obj\Debug\net5.0\Gift5.AssemblyInfoInputs.cache
+C:\Users\FAREED\desktop\gifts\gift5\obj\Debug\net5.0\Gift5.AssemblyInfo.cs
+C:\Users\FAREED\desktop\gifts\gift5\obj\Debug\net5.0\Gift5.csproj.CoreCompileInputs.cache
+C:\Users\FAREED\desktop\gifts\gift5\bin\Debug\net5.0\Gift5.exe
+C:\Users\FAREED\desktop\gifts\gift5\bin\Debug\net5.0\Gift5.deps.json
+C:\Users\FAREED\desktop\gifts\gift5\bin\Debug\net5.0\Gift5.runtimeconfig.json
+C:\Users\FAREED\desktop\gifts\gift5\bin\Debug\net5.0\Gift5.runtimeconfig.dev.json
+C:\Users\FAREED\desktop\gifts\gift5\bin\Debug\net5.0\Gift5.dll
+C:\Users\FAREED\desktop\gifts\gift5\bin\Debug\net5.0\ref\Gift5.dll
+C:\Users\FAREED\desktop\gifts\gift5\bin\Debug\net5.0\Gift5.pdb
+C:\Users\FAREED\desktop\gifts\gift5\obj\Debug\net5.0\Gift5.dll
+C:\Users\FAREED\desktop\gifts\gift5\obj\Debug\net5.0\ref\Gift5.dll
+C:\Users\FAREED\desktop\gifts\gift5\obj\Debug\net5.0\Gift5.pdb
+C:\Users\FAREED\desktop\gifts\gift5\obj\Debug\net5.0\Gift5.genruntimeconfig.cache

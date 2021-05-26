@@ -1,0 +1,16 @@
+C:\Users\FAREED\Desktop\Gift10\obj\Debug\net5.0\Gift10.csprojAssemblyReference.cache
+C:\Users\FAREED\Desktop\Gift10\obj\Debug\net5.0\Gift10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAREED\Desktop\Gift10\obj\Debug\net5.0\Gift10.AssemblyInfoInputs.cache
+C:\Users\FAREED\Desktop\Gift10\obj\Debug\net5.0\Gift10.AssemblyInfo.cs
+C:\Users\FAREED\Desktop\Gift10\obj\Debug\net5.0\Gift10.csproj.CoreCompileInputs.cache
+C:\Users\FAREED\Desktop\Gift10\bin\Debug\net5.0\Gift10.exe
+C:\Users\FAREED\Desktop\Gift10\bin\Debug\net5.0\Gift10.deps.json
+C:\Users\FAREED\Desktop\Gift10\bin\Debug\net5.0\Gift10.runtimeconfig.json
+C:\Users\FAREED\Desktop\Gift10\bin\Debug\net5.0\Gift10.runtimeconfig.dev.json
+C:\Users\FAREED\Desktop\Gift10\bin\Debug\net5.0\Gift10.dll
+C:\Users\FAREED\Desktop\Gift10\bin\Debug\net5.0\ref\Gift10.dll
+C:\Users\FAREED\Desktop\Gift10\bin\Debug\net5.0\Gift10.pdb
+C:\Users\FAREED\Desktop\Gift10\obj\Debug\net5.0\Gift10.dll
+C:\Users\FAREED\Desktop\Gift10\obj\Debug\net5.0\ref\Gift10.dll
+C:\Users\FAREED\Desktop\Gift10\obj\Debug\net5.0\Gift10.pdb
+C:\Users\FAREED\Desktop\Gift10\obj\Debug\net5.0\Gift10.genruntimeconfig.cache
